@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CodecTechnologies2/static/css/main.cf3cd8ec.css",
+    "main.js": "/CodecTechnologies2/static/js/main.459facfc.js",
+    "static/js/453.f5665f74.chunk.js": "/CodecTechnologies2/static/js/453.f5665f74.chunk.js",
+    "index.html": "/CodecTechnologies2/index.html",
+    "main.cf3cd8ec.css.map": "/CodecTechnologies2/static/css/main.cf3cd8ec.css.map",
+    "main.459facfc.js.map": "/CodecTechnologies2/static/js/main.459facfc.js.map",
+    "453.f5665f74.chunk.js.map": "/CodecTechnologies2/static/js/453.f5665f74.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf3cd8ec.css",
+    "static/js/main.459facfc.js"
+  ]
+}
