@@ -1,0 +1,12 @@
+/*
+ * Global stylesheet for the Budget Buddy application. Tailwind CSS
+ * handles most of the styling for components via utility classes.
+ * Here we simply define the default font and reset margin. You can
+ * extend this file if you need additional global styles.
+ */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap');
+
+body {
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+}
