@@ -14,6 +14,7 @@ Expense Tracker (now **Budget Buddy**) is a lightweight web application built wi
 - **React:** Frontend library for building the user interface.
 - **Tailwind CSS:** Utility‑first CSS framework included via CDN for quick styling.
 - **localStorage:** Browser API used to persist user and transaction data locally.
+- **Firebase:** For Authenticating.
 
 ## Getting Started
 
